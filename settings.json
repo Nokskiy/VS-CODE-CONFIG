@@ -1,0 +1,12 @@
+{
+
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 10,
+    "workbench.colorTheme": "Smooth Dark",
+    "editor.cursorBlinking": "expand", 
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 3,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.smoothScrolling": true,
+    "editor.dragAndDrop": true
+}
